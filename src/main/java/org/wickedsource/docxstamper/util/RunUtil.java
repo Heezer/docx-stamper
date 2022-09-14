@@ -14,8 +14,6 @@ public class RunUtil {
 
     }
 
-    // TODO remove me
-
     /**
      * Returns the text string of a run.
      *
